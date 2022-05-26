@@ -14,14 +14,15 @@ This Screen includes Login and SignUp Screen.<br />
 If the user or shopkeeper is new firstly the can register themselve by SignUp Screen and then they can Login.<br  />
 The aunthentication is Succefully performed by Google Firebase authentication.<br  />
 Here the user and customer has the *unique login id and password*.<br  />
-
-
-
-
+Following are the screenshots attached of Login and SignUp screen.<br  />
 
 
 <img src="https://user-images.githubusercontent.com/7691308/89343454-afae2080-d67a-11ea-9513-f8a6cd28f2a8.png" alt="home page" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/7691308/89343556-d5d3c080-d67a-11ea-8bb7-7af4583810e5.png" alt="home page" width="200" height="400">
+<br  />
+
+## 
+
 <img src="https://user-images.githubusercontent.com/7691308/89343634-f00d9e80-d67a-11ea-8a77-76448dfcc361.png" alt="home page" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/7691308/89343662-fd2a8d80-d67a-11ea-95d8-bee4aa02b39e.png" alt="home page" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/7691308/89343704-13384e00-d67b-11ea-9d56-4cfb94decf30.png" alt="home page" width="200" height="400">
