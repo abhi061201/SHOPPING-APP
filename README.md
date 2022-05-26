@@ -1,4 +1,5 @@
 # My Shop App
+This App is basically for the shopkeeper and customer ease.
 
 
 <img src="https://user-images.githubusercontent.com/7691308/89343454-afae2080-d67a-11ea-9513-f8a6cd28f2a8.png" alt="home page" width="200" height="400">
@@ -8,14 +9,4 @@
 <img src="https://user-images.githubusercontent.com/7691308/89343704-13384e00-d67b-11ea-9d56-4cfb94decf30.png" alt="home page" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/7691308/89343788-2f3bef80-d67b-11ea-8217-1ae972ff0552.png" alt="home page" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/7691308/89343812-3f53cf00-d67b-11ea-9c5e-635326e90c62.png" alt="home page" width="200" height="400">
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
