@@ -1,8 +1,9 @@
-# My Shop App- :Introduction
-It is a common thing everyone have witnessed in their life that while visiting shops,
-there is a lot of wastage of time to ask for their requirements and sometimes this may
-result into quarrel. Also, in the time of this global pandemic the need of the hour is to
-come up with the method which can ensure social distancing.<br />
+# My Shop App
+
+This app can be used for the shopkeeper and customer easier interaction.<br />
+The customer can check the available stocks of required items and can order from the app also.
+The shopkeeper can list the items also can regularly update them.
+This app is also beneficial at the time of covid. When no one want to go outside of the house.
 
 
 
