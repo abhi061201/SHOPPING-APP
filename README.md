@@ -1,9 +1,21 @@
 # My Shop App
 
 This app can be used for the shopkeeper and customer easier interaction.<br />
-The customer can check the available stocks of required items and can order from the app also.
-The shopkeeper can list the items also can regularly update them.
-This app is also beneficial at the time of covid. When no one want to go outside of the house.
+The customer can check the available stocks of required items and can order from the app also.<br />
+The shopkeeper can list the items also can regularly update them.<br />
+This app is also beneficial at the time of covid. When no one want to go outside of the house.<br />
+There is secure login for both customer and Shopkeeper.
+<br />
+
+# Screens:
+<br />
+## Authentication Screen
+This Screen includes Login and SignUp Screen.<br />
+If the user or shopkeeper is new firstly the can register themselve by SignUp Screen and then they can Login.<br />
+The aunthentication is Succefully performed by Google Firebase authentication.<br />
+Here the user and customer has the *unique login id and password*.<br />
+
+
 
 
 
