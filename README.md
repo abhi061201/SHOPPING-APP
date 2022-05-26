@@ -1,5 +1,12 @@
-# My Shop App
-This App is basically for the shopkeeper and customer ease.
+# My Shop App- :Introduction
+It is a common thing everyone have witnessed in their life that while visiting shops,
+there is a lot of wastage of time to ask for their requirements and sometimes this may
+result into quarrel. Also, in the time of this global pandemic the need of the hour is to
+come up with the method which can ensure social distancing.
+In order to solve this problem, we have decided to make an application which will
+ensure that customers can directly place their order by logging in to their account and pay
+the required amount.
+
 
 
 <img src="https://user-images.githubusercontent.com/7691308/89343454-afae2080-d67a-11ea-9513-f8a6cd28f2a8.png" alt="home page" width="200" height="400">
