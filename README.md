@@ -29,14 +29,18 @@ In cart screen the customer can see the total added items like a list.<br  />
 <img src="https://user-images.githubusercontent.com/7691308/89343634-f00d9e80-d67a-11ea-8a77-76448dfcc361.png" alt="home page" width="200" height="400">
 <br />
 <!-- <img src="https://user-images.githubusercontent.com/7691308/89343662-fd2a8d80-d67a-11ea-95d8-bee4aa02b39e.png" alt="home page" width="200" height="400"> -->
-### Cart Screen: ###
+
+### Cart Screen
 <img src="https://user-images.githubusercontent.com/7691308/89343704-13384e00-d67b-11ea-9d56-4cfb94decf30.png" alt="home page" width="200" height="400">
 <br  />
-## order Screen
+
+## order Screen:
 In the order screen the customer can check the net amount.<br  />
 This amount should be pay to the shopkeeper<br  />
 <img src="https://user-images.githubusercontent.com/7691308/89343788-2f3bef80-d67b-11ea-8217-1ae972ff0552.png" alt="home page" width="200" height="400">
 
-
+## Edit Product Screen:
+In this screen the shopkeeper can add or remove the items , update accordingly for the ease of customer.<br />
+Customer will see that screen at time of order<br />
 <img src="https://user-images.githubusercontent.com/7691308/89343812-3f53cf00-d67b-11ea-9c5e-635326e90c62.png" alt="home page" width="200" height="400">
 
