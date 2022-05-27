@@ -44,3 +44,8 @@ In this screen the shopkeeper can add or remove the items , update accordingly f
 Customer will see that screen at time of order<br />
 <img src="https://user-images.githubusercontent.com/7691308/89343812-3f53cf00-d67b-11ea-9c5e-635326e90c62.png" alt="home page" width="200" height="400">
 
+## Technology Used:
+* Dart language<br />
+* Flutter SDK (Android & iOS)<br />
+* Firebase Realtime Database<br />
+
